@@ -2,7 +2,7 @@ services:
   - type: web
     name: livo-pronunciation-scorer
     env: docker
-    plan: starter
+    plan: free
     dockerfilePath: ./Dockerfile
     envVars:
       - key: WHISPER_MODEL_SIZE
