@@ -1,8 +1,5 @@
 # Say It Clearly — Pronunciation Scoring App
 
-Built for the Livo AI SWE assessment. Upload 30–45s of English speech, get a
-per-word pronunciation score and highlighted transcript.
-
 See `ARCHITECTURE.md` (or the submitted `ARCHITECTURE.docx`) for the full
 system design, model choices, scoring methodology, and DPDP compliance notes.
 
